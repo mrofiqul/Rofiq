@@ -1,0 +1,17 @@
+G:\Basis\program\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+G:\Basis\program\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.SalaryCalculatorUI.resources
+G:\Basis\program\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+G:\Basis\program\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+G:\Basis\program\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+G:\Basis\program\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+G:\Basis\program\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+G:\Basis\program\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.SalaryCalculatorUI.resources
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+H:\ITS-2014000096\Programming\WindowsApp\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache

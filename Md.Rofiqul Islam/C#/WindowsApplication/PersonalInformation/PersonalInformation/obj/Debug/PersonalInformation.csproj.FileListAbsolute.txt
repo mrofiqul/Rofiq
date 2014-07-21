@@ -1,0 +1,12 @@
+G:\Basis\program\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+G:\Basis\program\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+G:\Basis\program\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+G:\Basis\program\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csprojResolveAssemblyReference.cache
+G:\Basis\program\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.PersonalInformationUI.resources
+G:\Basis\program\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Properties.Resources.resources
+G:\Basis\program\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.GenerateResource.Cache
+G:\Basis\program\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+G:\Basis\program\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
+H:\ITS-2014000096\Programming\WindowsApp\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+H:\ITS-2014000096\Programming\WindowsApp\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+H:\ITS-2014000096\Programming\WindowsApp\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb

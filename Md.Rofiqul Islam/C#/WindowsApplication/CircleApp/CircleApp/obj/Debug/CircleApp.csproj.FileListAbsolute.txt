@@ -1,0 +1,9 @@
+H:\ITS-2014000096\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+H:\ITS-2014000096\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+H:\ITS-2014000096\CircleApp\CircleApp\obj\Debug\CircleApp.CircleUI.resources
+H:\ITS-2014000096\CircleApp\CircleApp\obj\Debug\CircleApp.Properties.Resources.resources
+H:\ITS-2014000096\CircleApp\CircleApp\obj\Debug\CircleApp.csproj.GenerateResource.Cache
+H:\ITS-2014000096\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+H:\ITS-2014000096\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+H:\ITS-2014000096\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+H:\ITS-2014000096\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
