@@ -1,0 +1,9 @@
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.exe.config
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.exe
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.pdb
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.csprojResolveAssemblyReference.cache
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.CustomerQueueManagementUI.resources
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.Properties.Resources.resources
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.csproj.GenerateResource.Cache
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.exe
+H:\ITS-2014000096\18-07-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.pdb
