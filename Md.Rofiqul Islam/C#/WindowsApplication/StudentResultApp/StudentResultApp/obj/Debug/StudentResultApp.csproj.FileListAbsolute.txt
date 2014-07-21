@@ -1,0 +1,9 @@
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\bin\Debug\StudentResultApp.exe.config
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\bin\Debug\StudentResultApp.exe
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\bin\Debug\StudentResultApp.pdb
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\obj\Debug\StudentResultApp.csprojResolveAssemblyReference.cache
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\obj\Debug\StudentResultApp.ResultUI.resources
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\obj\Debug\StudentResultApp.Properties.Resources.resources
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\obj\Debug\StudentResultApp.csproj.GenerateResource.Cache
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\obj\Debug\StudentResultApp.exe
+H:\ITS-2014000096\Programming\StudentResultApp\StudentResultApp\obj\Debug\StudentResultApp.pdb
