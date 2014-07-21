@@ -1,0 +1,6 @@
+H:\ITS-2014000096\Programming\CircleApplication\CircleApplication\bin\Debug\CircleApplication.exe.config
+H:\ITS-2014000096\Programming\CircleApplication\CircleApplication\bin\Debug\CircleApplication.exe
+H:\ITS-2014000096\Programming\CircleApplication\CircleApplication\bin\Debug\CircleApplication.pdb
+H:\ITS-2014000096\Programming\CircleApplication\CircleApplication\obj\Debug\CircleApplication.csprojResolveAssemblyReference.cache
+H:\ITS-2014000096\Programming\CircleApplication\CircleApplication\obj\Debug\CircleApplication.exe
+H:\ITS-2014000096\Programming\CircleApplication\CircleApplication\obj\Debug\CircleApplication.pdb
