@@ -1,0 +1,22 @@
+﻿@using StudentApp.Models
+@model StudentApp.Models.Student
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Student Registration Form</h2>
+@using(Html.BeginForm("Create","Student",null,FormMethod.Post,new {enctype="multipart/form-data"}))
+{
+    <div>
+        @Html.Label("Name:")
+        @Html.TextBoxFor(model=>model.StudentName)<br />
+        @Html.Label("Registration:")
+        @Html.TextBoxFor(model=>model.StudentReg)<br />
+        <input type="submit" name="Submit" value="Sign Up" />
+    </div>
+
+
+
+
+}
+

@@ -1,0 +1,62 @@
+﻿@using System.Web.Mvc.Html
+@model IEnumerable<CountryCityApp.Models.Country>
+
+
+@{
+    ViewBag.Title = "Search";
+}
+@using(Html.BeginForm())
+{<h2>Search</h2>
+@Html.RadioButton("CountrySearch","CountryName")
+@Html.Label("Country Name")
+@Html.Editor("SearchText")<br/>
+
+@Html.RadioButton("CountrySearch", "CountryList")
+@Html.Label("Country Name")
+@Html.DropDownList("CountrySearchSelected",string.Empty)<br/>
+<input type="submit" value="Search"/>}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.About)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NoOfCities)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.About)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cities.Count)
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CountryId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CountryId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CountryId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+
+
+
+
